@@ -1,0 +1,10 @@
+{
+  "name": "mysri catering Invoice Book",
+  "short_name": "Mysri Invoice",
+  "description": "Offline-first invoices and payments for mysri catering",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fff8e8",
+  "theme_color": "#6f2b12",
+  "icons": []
+}
